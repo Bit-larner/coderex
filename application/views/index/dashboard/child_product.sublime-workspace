@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MEDICIN",
+				"MEDICINE_ID"
+			],
+			[
+				"qur",
+				"query"
+			],
+			[
+				"therapit",
+				"therapiticProduct"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ex",
+				"exit"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/wamp/www/drug1/application/models/Medicine_Model.php",
+		"/E/wamp/www/drug1/application/controllers/Page_controller.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/product_by_therapetic.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/getProdByThGrp.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/therapeutic.php",
+		"/E/wamp/www/drug-omar/product-by-therapetic.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/environment.php",
+		"/E/wamp/www/.idea/ajax/getuser.php",
+		"/E/wamp/www/drug1/application/libraries/template_applicant_drug1.php",
+		"/E/wamp/www/drug1/application/views/template_pages1.php",
+		"/E/wamp/www/drug1/application/config/autoload.php",
+		"/E/wamp/www/.idea/ajax/ajax.php",
+		"/E/wamp/www/drug1/application/libraries/template_applicant_drug_therapitic.php",
+		"/E/wamp/www/drug1/getuser.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/getuser.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/special_product.php",
+		"/E/wamp/www/drug1/application/controllers/MedicineSetup.php",
+		"/E/wamp/www/drug1/application/views/index/portal/slider.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/index.php",
+		"/E/wamp/www/drug1/application/views/index/portal/footer.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/single_product.php",
+		"/E/wamp/www/.idea/ajax/cd_catalog.xml",
+		"/E/wamp/www/.idea/ajax/getcd.php",
+		"/E/wamp/www/drug1/resource/test/vendors/bootstrap-wysihtml5/dist/bootstrap-wysihtml5-0.0.2.min.js",
+		"/E/ajaxTest/cd_catalog.xml",
+		"/E/ajaxTest/getcd.html",
+		"/E/ajaxTest/ajax.html",
+		"/E/wamp/www/drug1/application/views/index/dashboard/product_by_trade.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/homeSlider.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/medicine.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/specializedDepartment.php",
+		"/E/wamp/www/drug1/application/views/index/portal/product_slider.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/createNewHomeSlider.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/specializedProducts.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/createNewSpecializedProducts.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/createSpecializedDepartment.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/homeSlider",
+		"/E/wamp/www/drug1/resource/style.css",
+		"/E/drug-omar/slider.php",
+		"/E/wamp/www/drug1/application/views/index/layout/pg_unit1.php",
+		"/E/wamp/www/drug-omar/pg-unit1.php",
+		"/E/wamp/www/drug1/application/views/index/layout/global_operation.php",
+		"/E/wamp/www/drug1/application/views/index/portal/header.php",
+		"/E/wamp/www/drug1/application/views/index/layout/contact.php",
+		"/E/wamp/www/drug1/application/views/index/layout/oncology.php",
+		"/E/wamp/www/drug1/application/views/index/layout/virtual.php",
+		"/E/wamp/www/drug1/application/views/index/layout/ware_house.php",
+		"/E/wamp/www/drug-omar/research.php",
+		"/E/wamp/www/drug1/application/views/index/layout/research.php",
+		"/E/wamp/www/drug-omar/oncology.php",
+		"/E/wamp/www/drug1/application/views/index/layout/production_facility.php",
+		"/E/wamp/www/drug1/application/views/index/layout/formulation.php",
+		"/E/wamp/www/drug1/application/views/index/portal/sidebar2.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/Oncology_product.php",
+		"/E/wamp/www/drug-omar/product-slider.php",
+		"/E/wamp/www/drug-omar/single-product.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/sister_concerns.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/corporate.php",
+		"/E/wamp/www/drug-omar/corporate.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/mission.php",
+		"/E/wamp/www/drug1/application/views/index/portal/banner4.php",
+		"/E/wamp/www/drug-omar/banner4.php",
+		"/E/wamp/www/drug1/application/views/index/portal/banner3.php",
+		"/E/wamp/www/drug-omar/banner3.php",
+		"/E/wamp/www/drug-omar/banner2.php",
+		"/E/wamp/www/drug1/application/views/index/portal/banner2.php",
+		"/E/wamp/www/drug1/application/views/index/portal/banner5.php",
+		"/E/wamp/www/drug-omar/banner5.php",
+		"/E/wamp/www/drug-omar/mission.php",
+		"/E/wamp/www/drug1/application/views/drug.php",
+		"/E/wamp/www/drug1/application/views/template_pages.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/company_profile.php",
+		"/E/wamp/www/drug-omar/founder.php",
+		"/E/wamp/www/drug1/application/views/index/dashboard/founder.php",
+		"/E/wamp/www/drug-omar/header.php",
+		"/E/wamp/www/drug-omar/index.php",
+		"/E/wamp/www/drug-omar/footer.php",
+		"/E/wamp/www/drug-omar/slider.php",
+		"/E/wamp/www/drug_web/application/views/index/portal/footer.php",
+		"/E/wamp/www/drug_web/application/views/index/portal/banner.php",
+		"/E/wamp/www/drug-omar/banner.php",
+		"/E/wamp/www/drug-omar/about_sidebar.php",
+		"/E/wamp/www/drug_web/application/views/index/portal/about_sidebar.php",
+		"/E/wamp/www/drug_web/application/views/index/dashboard/index.php",
+		"/E/wamp/www/drug_web/application/views/index/portal/header.php",
+		"/E/wamp/www/drug2/drug_web/application/views/medicineSetup/createNewMedicine.php",
+		"/E/wamp/www/drug2/drug_web/application/controllers/MedicineSetup.php",
+		"/E/wamp/www/drug_web/application/views/medicineSetup/createNewMedicine.php",
+		"/E/wamp/www/drug_web/application/controllers/MedicineSetup.php",
+		"/E/wamp/www/drug2/drug_web/application/config/database.php",
+		"/E/wamp/www/drug2/drug_web/application/views/crud/upload.php",
+		"/E/wamp/www/drug_web2/application/controllers/MedicineSetup.php",
+		"/F/MedicineSetup.php",
+		"/E/wamp/www/drug1/application/config/database.php",
+		"/F/drug_web/application/controllers/MedicineSetup.php",
+		"/E/wamp/www/drug1/application/views/medicineSetup/editMedicine.php",
+		"/E/wamp/www/drug_web/application/config/database.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "child_product.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
